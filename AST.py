@@ -1,7 +1,3 @@
-"""
-https://github.com/jayconrod/imp-interpreter/blob/master/imp_ast.py
-Смотреть реалицию тут
-"""
 
 from GlobalStack import Stack
 
